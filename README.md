@@ -1,6 +1,6 @@
 # food_market
 
-A new Flutter application.
+just storing an old flutter online course result :)
 
 ## Getting Started
 
